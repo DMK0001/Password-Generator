@@ -9,4 +9,4 @@ A simple password generator build using Java and Spring Boot.
   - Numbers and special characters inclusion
 
 ## Screenshot
-![Screenshot](ssrc/main/resources/Pass-Gen-App.png)
+![Screenshot](src/main/resources/Pass-Gen-App.png)
